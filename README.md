@@ -95,4 +95,4 @@ README.md                     # Project overview and documentation
 
 ## 📬 Contact
 
-For feedback or collaboration, feel free to reach out at: **your.email@example.com**
+For feedback or collaboration, feel free to reach out at: **debsoumaditya@gmail.com**
